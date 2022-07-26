@@ -1,6 +1,5 @@
 package com.ty.test.thread;
 
-import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
